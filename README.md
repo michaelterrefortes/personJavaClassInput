@@ -1,6 +1,6 @@
 # personJavaClassInput
 
-Edward Garcia (Recorder)
-Michael Terrefortes (Spokesperson)
-Luis Lopez (Manager)
-Yared Osorio (Data Analyst
+Edward Garcia (Recorder) <br />
+Michael Terrefortes (Spokesperson) <br />
+Luis Lopez (Manager) <br />
+Yared Osorio (Data Analyst) <br />
