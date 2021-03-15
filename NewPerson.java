@@ -19,5 +19,6 @@ public class NewPerson
 		//System.out.printIn("Total= ");
 		Person A = new Person(Name);
 		A.setAge(Age);
+		System.out.print(A.getName() + " is " + A.getAge() + " years old\n");
 	}
 }
